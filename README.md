@@ -6,7 +6,7 @@
 
 <div>
 
-## 🎯 Current Endeavors and Focus:
+## **Current Endeavors and Focus:**
 
 - 🔭 Currently immersed in: Exciting MERN stack projects aimed at honing skills and showcasing abilities.
 - 🌱 Currently mastering: Advanced techniques in JS, React.js, Node.js, and MongoDB to stay ahead in web development.
@@ -18,10 +18,10 @@
   </div> <br><br>
 
 
-## Skill Set: 
+## **Skill Set:**
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev"> <br><br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,github,js,react,mongodb,nodejs,express,firebase" />
   </a>
 </p> <br><br>
