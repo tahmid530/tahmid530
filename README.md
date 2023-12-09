@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/tahmid530/tahmid530/main/cover%20image.png)]
+![](https://raw.githubusercontent.com/tahmid530/tahmid530/main/cover%20image.png)
 
 
 ### Hi there 👋
