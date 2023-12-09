@@ -3,7 +3,7 @@
 
 ## Current GitHub Status: 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahmid530&theme=merko&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahmid530&theme=merko&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=900)](https://git.io/streak-stats)
 
 
 ## 🎯 Current Endeavors and Focus:
