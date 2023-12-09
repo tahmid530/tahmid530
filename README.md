@@ -1,5 +1,8 @@
 ![](https://raw.githubusercontent.com/tahmid530/tahmid530/main/cover%20image.png)
 
+## Current GitHub Status: 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahmid530&theme=merko&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ### Hi there 👋
 
