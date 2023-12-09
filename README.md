@@ -21,16 +21,32 @@
 ## **Skill Set:**
 
 <p align="center">
-  <a href="https://skillicons.dev"> <br><br>
+  <a href="https://skillicons.dev"> <br>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,github,js,react,mongodb,nodejs,express,firebase" />
   </a>
 </p> <br><br>
 
 
-## **Current GitHub Status:**
+## **Current GitHub Status:** 
 
 <div align="center"> <br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahmid530&theme=merko&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahmid530&theme=merko&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=600)](https://git.io/streak-stats)
+
+</div> <br><br>
+
+
+## **Profile Summary:** 
+
+<div  align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmid530&theme=merko)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tahmid530&theme=merko&exclude={exclude})
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tahmid530&theme=merko&exclude={exclude})
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahmid530&theme=merko)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tahmid530&theme=merko&utcOffset=6)
+
 
 </div> <br><br>
