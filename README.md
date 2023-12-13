@@ -6,7 +6,7 @@
 
 <div>
 
-## ***Current Endeavors and Focus:***
+# ***Current Endeavors and Focus:***
 
 - 🔭 Currently immersed in: Exciting MERN stack projects aimed at honing skills and showcasing abilities.
 - 🌱 Currently mastering: Advanced techniques in JS, React.js, Node.js, and MongoDB to stay ahead in web development.
