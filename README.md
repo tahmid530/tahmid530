@@ -18,7 +18,7 @@
   </div> <br><br>
 
 
-## ***Skill Set:***
+# ***Skill Set:***
 
 <p align="center">
   <a href="https://skillicons.dev"> <br>
